@@ -1,0 +1,358 @@
+{
+  "source_page": "https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/precos-revenda-e-de-distribuicao-combustiveis/serie-historica-do-levantamento-de-precos",
+  "source_url": "https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/precos-revenda-e-de-distribuicao-combustiveis/shlp/mensal/mensal-estados-desde-jan2013.xlsx",
+  "source_sha256": "b8b3a8cb58f10321eab2cd6239ffec1cf863d20d41f5568bd08fd8e8314ea955",
+  "output_sha256": "1e8106e66cb33eb6a954977abf6b284daaf6a19b4e35e574123a2541986a77af",
+  "download_file_mtime_utc": "2026-11-10T23:40:58.576076+00:00",
+  "processed_at_utc": "2026-11-10T23:42:35.988382+00:00",
+  "period_start": "2025-01",
+  "period_end": "2026-08",
+  "rows": 1074,
+  "states": 27,
+  "products": [
+    "OLEO DIESEL",
+    "OLEO DIESEL S10"
+  ],
+  "coverage": [
+    {
+      "localidade": "ACRE",
+      "produto": "OLEO DIESEL",
+      "meses": 20,
+      "meses_ausentes": []
+    },
+    {
+      "localidade": "ACRE",
+      "produto": "OLEO DIESEL S10",
+      "meses": 20,
+      "meses_ausentes": []
+    },
+    {
+      "localidade": "ALAGOAS",
+      "produto": "OLEO DIESEL",
+      "meses": 20,
+      "meses_ausentes": []
+    },
+    {
+      "localidade": "ALAGOAS",
+      "produto": "OLEO DIESEL S10",
+      "meses": 20,
+      "meses_ausentes": []
+    },
+    {
+      "localidade": "AMAPA",
+      "produto": "OLEO DIESEL",
+      "meses": 15,
+      "meses_ausentes": [
+        "2026-04",
+        "2026-05",
+        "2026-06",
+        "2026-07",
+        "2026-08"
+      ]
+    },
+    {
+      "localidade": "AMAPA",
+      "produto": "OLEO DIESEL S10",
+      "meses": 20,
+      "meses_ausentes": []
+    },
+    {
+      "localidade": "AMAZONAS",
+      "produto": "OLEO DIESEL",
+      "meses": 20,
+      "meses_ausentes": []
+    },
+    {
+      "localidade": "AMAZONAS",
+      "produto": "OLEO DIESEL S10",
+      "meses": 20,
+      "meses_ausentes": []
+    },
+    {
+      "localidade": "BAHIA",
+      "produto": "OLEO DIESEL",
+      "meses": 20,
+      "meses_ausentes": []
+    },
+    {
+      "localidade": "BAHIA",
+      "produto": "OLEO DIESEL S10",
+      "meses": 20,
+      "meses_ausentes": []
+    },
+    {
+      "localidade": "CEARA",
+      "produto": "OLEO DIESEL",
+      "meses": 20,
+      "meses_ausentes": []
+    },
+    {
+      "localidade": "CEARA",
+      "produto": "OLEO DIESEL S10",
+      "meses": 20,
+      "meses_ausentes": []
+    },
+    {
+      "localidade": "DISTRITO FEDERAL",
+      "produto": "OLEO DIESEL",
+      "meses": 20,
+      "meses_ausentes": []
+    },
+    {
+      "localidade": "DISTRITO FEDERAL",
+      "produto": "OLEO DIESEL S10",
+      "meses": 20,
+      "meses_ausentes": []
+    },
+    {
+      "localidade": "ESPIRITO SANTO",
+      "produto": "OLEO DIESEL",
+      "meses": 20,
+      "meses_ausentes": []
+    },
+    {
+      "localidade": "ESPIRITO SANTO",
+      "produto": "OLEO DIESEL S10",
+      "meses": 20,
+      "meses_ausentes": []
+    },
+    {
+      "localidade": "GOIAS",
+      "produto": "OLEO DIESEL",
+      "meses": 20,
+      "meses_ausentes": []
+    },
+    {
+      "localidade": "GOIAS",
+      "produto": "OLEO DIESEL S10",
+      "meses": 20,
+      "meses_ausentes": []
+    },
+    {
+      "localidade": "MARANHAO",
+      "produto": "OLEO DIESEL",
+      "meses": 20,
+      "meses_ausentes": []
+    },
+    {
+      "localidade": "MARANHAO",
+      "produto": "OLEO DIESEL S10",
+      "meses": 20,
+      "meses_ausentes": []
+    },
+    {
+      "localidade": "MATO GROSSO",
+      "produto": "OLEO DIESEL",
+      "meses": 20,
+      "meses_ausentes": []
+    },
+    {
+      "localidade": "MATO GROSSO",
+      "produto": "OLEO DIESEL S10",
+      "meses": 20,
+      "meses_ausentes": []
+    },
+    {
+      "localidade": "MATO GROSSO DO SUL",
+      "produto": "OLEO DIESEL",
+      "meses": 20,
+      "meses_ausentes": []
+    },
+    {
+      "localidade": "MATO GROSSO DO SUL",
+      "produto": "OLEO DIESEL S10",
+      "meses": 20,
+      "meses_ausentes": []
+    },
+    {
+      "localidade": "MINAS GERAIS",
+      "produto": "OLEO DIESEL",
+      "meses": 20,
+      "meses_ausentes": []
+    },
+    {
+      "localidade": "MINAS GERAIS",
+      "produto": "OLEO DIESEL S10",
+      "meses": 20,
+      "meses_ausentes": []
+    },
+    {
+      "localidade": "PARA",
+      "produto": "OLEO DIESEL",
+      "meses": 20,
+      "meses_ausentes": []
+    },
+    {
+      "localidade": "PARA",
+      "produto": "OLEO DIESEL S10",
+      "meses": 20,
+      "meses_ausentes": []
+    },
+    {
+      "localidade": "PARAIBA",
+      "produto": "OLEO DIESEL",
+      "meses": 20,
+      "meses_ausentes": []
+    },
+    {
+      "localidade": "PARAIBA",
+      "produto": "OLEO DIESEL S10",
+      "meses": 20,
+      "meses_ausentes": []
+    },
+    {
+      "localidade": "PARANA",
+      "produto": "OLEO DIESEL",
+      "meses": 20,
+      "meses_ausentes": []
+    },
+    {
+      "localidade": "PARANA",
+      "produto": "OLEO DIESEL S10",
+      "meses": 20,
+      "meses_ausentes": []
+    },
+    {
+      "localidade": "PERNAMBUCO",
+      "produto": "OLEO DIESEL",
+      "meses": 20,
+      "meses_ausentes": []
+    },
+    {
+      "localidade": "PERNAMBUCO",
+      "produto": "OLEO DIESEL S10",
+      "meses": 20,
+      "meses_ausentes": []
+    },
+    {
+      "localidade": "PIAUI",
+      "produto": "OLEO DIESEL",
+      "meses": 20,
+      "meses_ausentes": []
+    },
+    {
+      "localidade": "PIAUI",
+      "produto": "OLEO DIESEL S10",
+      "meses": 20,
+      "meses_ausentes": []
+    },
+    {
+      "localidade": "RIO DE JANEIRO",
+      "produto": "OLEO DIESEL",
+      "meses": 20,
+      "meses_ausentes": []
+    },
+    {
+      "localidade": "RIO DE JANEIRO",
+      "produto": "OLEO DIESEL S10",
+      "meses": 20,
+      "meses_ausentes": []
+    },
+    {
+      "localidade": "RIO GRANDE DO NORTE",
+      "produto": "OLEO DIESEL",
+      "meses": 20,
+      "meses_ausentes": []
+    },
+    {
+      "localidade": "RIO GRANDE DO NORTE",
+      "produto": "OLEO DIESEL S10",
+      "meses": 20,
+      "meses_ausentes": []
+    },
+    {
+      "localidade": "RIO GRANDE DO SUL",
+      "produto": "OLEO DIESEL",
+      "meses": 20,
+      "meses_ausentes": []
+    },
+    {
+      "localidade": "RIO GRANDE DO SUL",
+      "produto": "OLEO DIESEL S10",
+      "meses": 20,
+      "meses_ausentes": []
+    },
+    {
+      "localidade": "RONDONIA",
+      "produto": "OLEO DIESEL",
+      "meses": 20,
+      "meses_ausentes": []
+    },
+    {
+      "localidade": "RONDONIA",
+      "produto": "OLEO DIESEL S10",
+      "meses": 20,
+      "meses_ausentes": []
+    },
+    {
+      "localidade": "RORAIMA",
+      "produto": "OLEO DIESEL",
+      "meses": 20,
+      "meses_ausentes": []
+    },
+    {
+      "localidade": "RORAIMA",
+      "produto": "OLEO DIESEL S10",
+      "meses": 20,
+      "meses_ausentes": []
+    },
+    {
+      "localidade": "SANTA CATARINA",
+      "produto": "OLEO DIESEL",
+      "meses": 20,
+      "meses_ausentes": []
+    },
+    {
+      "localidade": "SANTA CATARINA",
+      "produto": "OLEO DIESEL S10",
+      "meses": 20,
+      "meses_ausentes": []
+    },
+    {
+      "localidade": "SAO PAULO",
+      "produto": "OLEO DIESEL",
+      "meses": 20,
+      "meses_ausentes": []
+    },
+    {
+      "localidade": "SAO PAULO",
+      "produto": "OLEO DIESEL S10",
+      "meses": 20,
+      "meses_ausentes": []
+    },
+    {
+      "localidade": "SERGIPE",
+      "produto": "OLEO DIESEL",
+      "meses": 19,
+      "meses_ausentes": [
+        "2025-08"
+      ]
+    },
+    {
+      "localidade": "SERGIPE",
+      "produto": "OLEO DIESEL S10",
+      "meses": 20,
+      "meses_ausentes": []
+    },
+    {
+      "localidade": "TOCANTINS",
+      "produto": "OLEO DIESEL",
+      "meses": 20,
+      "meses_ausentes": []
+    },
+    {
+      "localidade": "TOCANTINS",
+      "produto": "OLEO DIESEL S10",
+      "meses": 20,
+      "meses_ausentes": []
+    }
+  ],
+  "use": "Contexto retrospectivo e referência de cenários; não integrado ao treinamento.",
+  "limitations": [
+    "Preço de revenda pesquisado, não custo pago pela transportadora.",
+    "Média mensal completa não estava disponível no início do mês.",
+    "Agosto/2026 mensal completo difere da base operacional encerrada em 04/08.",
+    "Geografia é estadual; não comprova local de abastecimento.",
+    "Número de postos é campo publicado, sem reinterpretar como postos únicos."
+  ]
+}

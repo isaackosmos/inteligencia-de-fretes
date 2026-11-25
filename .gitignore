@@ -1,0 +1,27 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+dist/
+tmp/
+reports/execucoes/
+reports/modelagem/previsoes_teste.csv
+reports/modelagem/maiores_erros.csv
+reports/estabilidade/previsoes_oof.csv
+*.pyc
+.streamlit/secrets.toml
+data/raw/*
+data/processed/*
+models/*.joblib
+models/**/*.joblib
+models/archive/
+*.xlsx
+*.pdf
+reports/final/pdf_manifest.json
+base_modelagem_frete.csv
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Banco local da demonstração de cotações
+data/cotacoes.sqlite3*
